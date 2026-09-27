@@ -3,6 +3,9 @@
 A real-time earthquake analysis dashboard built with Python and Streamlit, 
 pulling live data from Kandilli Observatory (Boğaziçi University).
 
+## Live Demo
+https://zez-earthquake-analysis.streamlit.app/
+
 ## Features
 - Live data updated every 5 minutes (last 500 earthquakes)
 - Interactive map with magnitude-based color coding
@@ -16,8 +19,6 @@ pulling live data from Kandilli Observatory (Boğaziçi University).
 ## Tech Stack
 Python, Pandas, Streamlit, Folium, Matplotlib, Seaborn, BeautifulSoup
 
-## Live Demo
-https://zez-earthquake-analysis.streamlit.app/
 
 ## How to Run
 ```bash
