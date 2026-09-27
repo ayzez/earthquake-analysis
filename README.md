@@ -4,7 +4,7 @@ A real-time earthquake analysis dashboard built with Python and Streamlit,
 pulling live data from Kandilli Observatory (Boğaziçi University).
 
 ## Live Demo
-https://zez-earthquake-analysis.streamlit.app/
+https://zez-ai-job-market-insights.streamlit.app/
 
 ## Features
 - Live data updated every 5 minutes (last 500 earthquakes)
